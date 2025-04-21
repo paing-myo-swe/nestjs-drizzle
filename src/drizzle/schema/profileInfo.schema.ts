@@ -1,5 +1,4 @@
-import { integer } from 'drizzle-orm/gel-core';
-import { jsonb, pgTable, serial } from 'drizzle-orm/pg-core';
+import { jsonb, pgTable, serial, integer } from 'drizzle-orm/pg-core';
 import { users } from './users.schema';
 
 export const profileInfo = pgTable('profileInfo', {

@@ -43,6 +43,13 @@
       "when": 1744990589894,
       "tag": "0005_sudden_wendigo",
       "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1745220914300,
+      "tag": "0006_ordinary_lockheed",
+      "breakpoints": true
     }
   ]
 }
